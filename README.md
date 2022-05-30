@@ -10,9 +10,11 @@ Ainsi qu'un package application qui contient le main, le mainController et les f
 
 # Des explications sur l’installation du logiciel ou des ressources nécessaires :
 
-Installer le jre 1.8.0_311
-Installer JavaFX
-Installer ControlsFX
+- Installer le jre 1.8.0_311
+
+- Installer JavaFX
+
+- Installer ControlsFX
 
 
 # La liste de ses dépendances (i.e. bibliothèques utilisées dans le code source) :
