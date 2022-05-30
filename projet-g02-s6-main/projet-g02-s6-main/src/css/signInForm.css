@@ -1,0 +1,16 @@
+.hbox {
+    -fx-background-color: lightblue;
+    -fx-border-radius: 1;
+    -fx-background-radius: 30px;
+}
+
+.text-area {
+    -fx-background-color: transparent;
+    -fx-prompt-text-fill: white;
+}
+
+.button {
+    -fx-background-color: lightblue;
+    -fx-border-radius: 1;
+    -fx-background-radius: 20px;
+}

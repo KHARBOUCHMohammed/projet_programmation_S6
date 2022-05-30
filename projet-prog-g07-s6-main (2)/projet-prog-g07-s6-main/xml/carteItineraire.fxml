@@ -1,0 +1,845 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><osm generator="Overpass API 0.7.57 93a4d346" version="0.6">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2022-01-14T14:05:02Z"/>
+
+  <node id="657433" lat="43.9504561" lon="4.8022957">
+    <tag k="direction" v="forward"/>
+    <tag k="highway" v="give_way"/>
+  </node>
+  <node id="92897802" lat="43.9448214" lon="4.8160426">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="92960374" lat="43.9419101" lon="4.8231686">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Galaxie"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="302666282" lat="43.9520560" lon="4.7977211">
+    <tag k="highway" v="crossing"/>
+    <tag k="source" v="Bing"/>
+  </node>
+  <node id="302666294" lat="43.9524357" lon="4.7963637">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="platform"/>
+    <tag k="name" v="Barthelasse"/>
+    <tag k="public_transport" v="platform"/>
+  </node>
+  <node id="302852515" lat="43.9498563" lon="4.8057695">
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="303075916" lat="43.9507404" lon="4.8024679">
+    <tag k="bicycle" v="yes"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="02Bb6ra048KehdgP5nV5jw"/>
+    <tag k="survey:date" v="2018-06-12"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="309628689" lat="43.9488960" lon="4.8069996">
+    <tag k="crossing" v="marked"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="309826910" lat="43.9526257" lon="4.7965050">
+    <tag k="bicycle" v="yes"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="309826978" lat="43.9508693" lon="4.8023197">
+    <tag k="crossing:bollard" v="half"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="source" v="survey"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="559331142" lat="43.9525769" lon="4.7963879">
+    <tag k="highway" v="stop"/>
+  </node>
+  <node id="928464773" lat="43.9447392" lon="4.8163199">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="928464776" lat="43.9439863" lon="4.8187569">
+    <tag k="bench" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="platform"/>
+    <tag k="name" v="Maison de Retraite"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="928464797" lat="43.9438402" lon="4.8192305">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="source" v="Bing"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="928464817" lat="43.9448022" lon="4.8160905">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="928464828" lat="43.9444538" lon="4.8168685">
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="platform"/>
+    <tag k="name" v="Palais de Justice"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="928464837" lat="43.9439692" lon="4.8194277">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="source" v="Bing"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="928464856" lat="43.9437884" lon="4.8193961">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="source" v="Bing"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="928464878" lat="43.9446187" lon="4.8160987">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="survey:date" v="2018-05-23"/>
+  </node>
+  <node id="928464894" lat="43.9448059" lon="4.8162684">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="survey:date" v="2018-05-23"/>
+  </node>
+  <node id="929040988" lat="43.9422052" lon="4.8213635">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="source" v="Bing"/>
+  </node>
+  <node id="933466134" lat="43.9441496" lon="4.8186468">
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="platform"/>
+    <tag k="name" v="Maison de Retraite"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="survey:date" v="2020-01-09"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="968868003" lat="43.9489728" lon="4.8072737">
+    <tag k="bench" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Favart"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="no"/>
+    <tag k="survey:date" v="2018-04-13"/>
+  </node>
+  <node id="968868060" lat="43.9446334" lon="4.8168103">
+    <tag k="bench" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="platform"/>
+    <tag k="name" v="Palais de Justice"/>
+    <tag k="name:oc" v="Palais de justícia"/>
+    <tag k="pole" v="public_transport"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="no"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:name:oc" v="ieo-bdtopoc"/>
+    <tag k="survey:date" v="2018-06-22"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="968868138" lat="43.9483356" lon="4.8059342">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="platform"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Horloge"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="no"/>
+    <tag k="survey:date" v="2017-07-24"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="1113275923" lat="43.9428135" lon="4.8209499">
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="platform"/>
+    <tag k="name" v="L'Épi"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1113276129" lat="43.9425010" lon="4.8210587">
+    <tag k="bench" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="platform"/>
+    <tag k="mapillary" v="ImRTdJ7tn4Y55sa1IWQBVQ"/>
+    <tag k="name" v="L'Épi"/>
+    <tag k="pole" v="yes"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="no"/>
+    <tag k="survey:date" v="2016-10-18"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1113276221" lat="43.9419446" lon="4.8232321">
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="platform"/>
+    <tag k="name" v="Galaxie"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1674102052" lat="43.9425546" lon="4.8210840">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="L'Épi"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="1674102054" lat="43.9426299" lon="4.8210418">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="1674102056" lat="43.9427829" lon="4.8208887">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="L'Épi"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="1674102090" lat="43.9438237" lon="4.8195250">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="source" v="Bing"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="1674102113" lat="43.9440533" lon="4.8187687">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Maison de Retraite"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="1674102121" lat="43.9445247" lon="4.8168673">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Palais de Justice"/>
+    <tag k="name:oc" v="Palais de Justícia"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="1721632351" lat="43.9500701" lon="4.8023121">
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="platform"/>
+    <tag k="name" v="Porte de l'Oulle"/>
+    <tag k="name:oc" v="Pòrta de l'Ola"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="source:name:oc" v="ieo-bdtopoc"/>
+    <tag k="tactile_paving" v="no"/>
+    <tag k="waste_basket" v="yes"/>
+  </node>
+  <node id="1721632356" lat="43.9501509" lon="4.8022218">
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="platform"/>
+    <tag k="name" v="Porte de l'Oulle"/>
+    <tag k="name:oc" v="Pòrta de l'Ola"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="source:name:oc" v="ieo-bdtopoc"/>
+    <tag k="tactile_paving" v="unknown"/>
+  </node>
+  <node id="1770453042" lat="43.9499939" lon="4.8022401">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Porte de l'Oulle"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="1771474709" lat="43.9501334" lon="4.8022515">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Porte de l'Oulle"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="1771474715" lat="43.9502890" lon="4.8021530">
+    <tag k="bicycle" v="yes"/>
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="NrLxES-iOALYgfwcBy4CYA"/>
+    <tag k="survey:date" v="2018-06-12"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1771474722" lat="43.9503782" lon="4.8020158">
+    <tag k="bicycle" v="yes"/>
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="1771494693" lat="43.9501482" lon="4.8021431">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Porte de l'Oulle"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="1771494696" lat="43.9502068" lon="4.8021222">
+    <tag k="highway" v="give_way"/>
+  </node>
+  <node id="1771494698" lat="43.9502086" lon="4.8019521">
+    <tag k="highway" v="give_way"/>
+  </node>
+  <node id="2009720013" lat="43.9521988" lon="4.7991392">
+    <tag k="highway" v="give_way"/>
+  </node>
+  <node id="2101160149" lat="43.9502378" lon="4.8023437">
+    <tag k="crossing" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="fvuvNbiGO0PVmsDQicFEJg"/>
+    <tag k="survey:date" v="2019-06-07"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="2101160150" lat="43.9502385" lon="4.8022650">
+    <tag k="crossing" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="2211188322" lat="43.9520894" lon="4.7988300">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Bagatelle"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="2211195269" lat="43.9525501" lon="4.7964737">
+    <tag k="bench" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="platform"/>
+    <tag k="mapillary" v="TBIL4Y4ObOBoEDsbalfecA"/>
+    <tag k="name" v="Barthelasse"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="route_ref" v="5"/>
+    <tag k="shelter" v="no"/>
+    <tag k="survey:date" v="2018-03-21"/>
+  </node>
+  <node id="2326833841" lat="43.9421989" lon="4.8220810">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="2326833857" lat="43.9427845" lon="4.8222740">
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="2499302347" lat="43.9475039" lon="4.8122322">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing:bollard" v="half"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="source" v="survey 2013"/>
+    <tag k="survey:date" v="2017-07-31"/>
+    <tag k="tactile_paving" v="no"/>
+    <tag k="wheelchair" v="bad"/>
+  </node>
+  <node id="2499302352" lat="43.9475425" lon="4.8121750">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing:bollard" v="no"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="source" v="survey 2013"/>
+    <tag k="survey:date" v="2017-07-31"/>
+    <tag k="tactile_paving" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2499302891" lat="43.9475806" lon="4.8122332">
+    <tag k="crossing" v="zebra"/>
+    <tag k="crossing:bollard" v="yes"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="source" v="survey 2013"/>
+    <tag k="survey:date" v="2017-07-31"/>
+    <tag k="tactile_paving" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2504773148" lat="43.9456601" lon="4.8141869">
+    <tag k="highway" v="crossing"/>
+    <tag k="source" v="survey 2013"/>
+    <tag k="tactile_paving" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2504773149" lat="43.9456396" lon="4.8141427">
+    <tag k="highway" v="crossing"/>
+    <tag k="source" v="survey 2013"/>
+  </node>
+  <node id="2504773150" lat="43.9457152" lon="4.8141523">
+    <tag k="highway" v="crossing"/>
+    <tag k="source" v="survey 2013"/>
+  </node>
+  <node id="2504773152" lat="43.9456826" lon="4.8141050">
+    <tag k="highway" v="crossing"/>
+    <tag k="source" v="survey 2013"/>
+  </node>
+  <node id="2504776111" lat="43.9461799" lon="4.8141927">
+    <tag k="crossing" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="source" v="survey 2013"/>
+  </node>
+  <node id="2504776112" lat="43.9462013" lon="4.8142639">
+    <tag k="highway" v="crossing"/>
+    <tag k="source" v="survey 2013"/>
+  </node>
+  <node id="2504776113" lat="43.9462223" lon="4.8141518">
+    <tag k="highway" v="crossing"/>
+    <tag k="source" v="survey 2013"/>
+  </node>
+  <node id="2504776114" lat="43.9462446" lon="4.8141983">
+    <tag k="crossing" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="source" v="survey 2013"/>
+  </node>
+  <node id="2806846521" lat="43.9503507" lon="4.8021947">
+    <tag k="highway" v="give_way"/>
+  </node>
+  <node id="2806846534" lat="43.9508559" lon="4.8021768">
+    <tag k="highway" v="give_way"/>
+  </node>
+  <node id="2807302601" lat="43.9524973" lon="4.7969210">
+    <tag k="bicycle" v="yes"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="source" v="Bing"/>
+  </node>
+  <node id="3008379602" lat="43.9422922" lon="4.8223119">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="3029468192" lat="43.9482665" lon="4.8099876">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="survey:date" v="2017-09-06"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="3029476569" lat="43.9485004" lon="4.8095081">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing:bollard" v="contrasted"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="source" v="survey 2014"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="3600092506" lat="43.9432153" lon="4.8202829">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="source" v="Bing"/>
+  </node>
+  <node id="3600092514" lat="43.9435954" lon="4.8198520">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="source" v="Bing"/>
+  </node>
+  <node id="3600092517" lat="43.9428636" lon="4.8206864">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="c10FVAJNWNkrnpsw3xM39g"/>
+    <tag k="source" v="Bing"/>
+    <tag k="survey:date" v="2017-07-03"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="3600092518" lat="43.9423427" lon="4.8209829">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="source" v="Bing"/>
+  </node>
+  <node id="3600092520" lat="43.9438037" lon="4.8193421">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="source" v="Bing"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="3600092523" lat="43.9428507" lon="4.8208169">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="EdGYW3N7MTRgo-7LjhlklA"/>
+    <tag k="source" v="Bing"/>
+    <tag k="survey:date" v="2017-09-05"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="3600092527" lat="43.9423876" lon="4.8210426">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="source" v="Bing"/>
+  </node>
+  <node id="3804450887" lat="43.9423871" lon="4.8214357">
+    <tag k="highway" v="give_way"/>
+  </node>
+  <node id="3804450905" lat="43.9437769" lon="4.8193536">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="3804450906" lat="43.9437882" lon="4.8193263">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="3804450907" lat="43.9437972" lon="4.8195062">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="source" v="Bing"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="3804450908" lat="43.9438045" lon="4.8195698">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals:direction" v="forward"/>
+  </node>
+  <node id="3804450912" lat="43.9439723" lon="4.8190946">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="source" v="Bing"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="3804450913" lat="43.9439906" lon="4.8190317">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals:direction" v="backward"/>
+  </node>
+  <node id="3804450914" lat="43.9440028" lon="4.8191092">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="mapillary" v="DASGakOPSo9_IZGt8lzlEA"/>
+    <tag k="source" v="Bing"/>
+    <tag k="survey:date" v="2017-04-24"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="3804450915" lat="43.9440081" lon="4.8193186">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="mapillary" v="OnoF0nhqi538HcrAhV5hMw"/>
+    <tag k="source" v="Bing"/>
+    <tag k="survey:date" v="2018-06-28"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="3804450918" lat="43.9440278" lon="4.8193306">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="3804450919" lat="43.9440307" lon="4.8192548">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="mapillary" v="OnoF0nhqi538HcrAhV5hMw"/>
+    <tag k="source" v="Bing"/>
+    <tag k="survey:date" v="2018-06-28"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="3804450920" lat="43.9440437" lon="4.8192846">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="3804450923" lat="43.9445978" lon="4.8160466">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="3804450924" lat="43.9446452" lon="4.8160082">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="3804450925" lat="43.9447010" lon="4.8161871">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="3804450926" lat="43.9447111" lon="4.8161544">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="4XyWYPiGvyUoMqfXoiz5PA"/>
+    <tag k="survey:date" v="2018-06-12"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="3804450927" lat="43.9447922" lon="4.8161172">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="MhIlgTA8ORplkpTrr8Iu1g"/>
+    <tag k="survey:date" v="2018-06-12"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="3804450928" lat="43.9448134" lon="4.8160988">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="3804450929" lat="43.9448346" lon="4.8160540">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="4285776176" lat="43.9487945" lon="4.8049101">
+    <tag k="crossing" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="survey:date" v="2020-07-10"/>
+  </node>
+  <node id="4447843315" lat="43.9462347" lon="4.8120370">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="4456651815" lat="43.9525376" lon="4.7967906">
+    <tag k="bicycle" v="yes"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="4778733360" lat="43.9487443" lon="4.8049342">
+    <tag k="crossing" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="survey:date" v="2021-05-21"/>
+  </node>
+  <node id="4825981636" lat="43.9454104" lon="4.8140783">
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="source" v="BDOrtho IGN 2017"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="4908199627" lat="43.9437582" lon="4.8168269">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Palais de Justice"/>
+    <tag k="name:oc" v="Palais de Justícia"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="4946272056" lat="43.9471051" lon="4.8100479">
+    <tag k="crossing" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="survey:date" v="2017-07-31"/>
+  </node>
+  <node id="4946272058" lat="43.9472545" lon="4.8096630">
+    <tag k="crossing" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="wZKuQqvntaVmLsSIIUA4QA"/>
+    <tag k="survey:date" v="2018-01-02"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="5518187445" lat="43.9503229" lon="4.8024241">
+    <tag k="crossing" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="5844649748" lat="43.9503188" lon="4.8023278">
+    <tag k="direction" v="forward"/>
+    <tag k="highway" v="give_way"/>
+  </node>
+  <node id="5845808761" lat="43.9499182" lon="4.8049082">
+    <tag k="crossing" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="survey:date" v="2019-04-17"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="5845808762" lat="43.9495839" lon="4.8049509">
+    <tag k="crossing" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="5849073260" lat="43.9503234" lon="4.8024034">
+    <tag k="direction" v="backward"/>
+    <tag k="highway" v="give_way"/>
+  </node>
+  <node id="6293056326" lat="43.9496851" lon="4.8038364">
+    <tag k="crossing" v="unmarked"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="6314861051" lat="43.9430887" lon="4.8188256">
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="6314861058" lat="43.9429072" lon="4.8190130">
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="6673610458" lat="43.9484102" lon="4.8093567">
+    <tag k="crossing" v="unmarked"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="6711526238" lat="43.9423901" lon="4.8210789">
+    <tag k="highway" v="give_way"/>
+  </node>
+  <node id="6711526239" lat="43.9424973" lon="4.8211138">
+    <tag k="highway" v="give_way"/>
+  </node>
+  <node id="6711526243" lat="43.9422773" lon="4.8213300">
+    <tag k="direction" v="backward"/>
+    <tag k="highway" v="give_way"/>
+  </node>
+  <node id="7279725070" lat="43.9519993" lon="4.7981547">
+    <tag k="bicycle" v="yes"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="7473958872" lat="43.9519164" lon="4.7991049">
+    <tag k="direction" v="forward"/>
+    <tag k="highway" v="give_way"/>
+  </node>
+  <node id="7473958873" lat="43.9522268" lon="4.7992558">
+    <tag k="direction" v="backward"/>
+    <tag k="highway" v="give_way"/>
+  </node>
+  <node id="7473958874" lat="43.9533207" lon="4.7970631">
+    <tag k="highway" v="stop"/>
+  </node>
+  <node id="7523496414" lat="43.9442868" lon="4.8174962">
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="7523496415" lat="43.9442919" lon="4.8174694">
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="7528402990" lat="43.9440949" lon="4.8185885">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Maison de Retraite"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7528402999" lat="43.9422708" lon="4.8223077">
+    <tag k="highway" v="give_way"/>
+  </node>
+  <node id="7528403000" lat="43.9421634" lon="4.8224549">
+    <tag k="highway" v="give_way"/>
+  </node>
+  <node id="7528403001" lat="43.9421672" lon="4.8222085">
+    <tag k="highway" v="give_way"/>
+  </node>
+  <node id="7528403006" lat="43.9420970" lon="4.8224955">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="7528403007" lat="43.9421209" lon="4.8225116">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="7528403009" lat="43.9422966" lon="4.8223681">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="7528415280" lat="43.9524974" lon="4.7964646">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Barthelasse"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7528826145" lat="43.9509789" lon="4.8030411">
+    <tag k="direction" v="forward"/>
+    <tag k="highway" v="stop"/>
+  </node>
+  <node id="7528826148" lat="43.9503947" lon="4.8026280">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Porte de l'Oulle"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7573489226" lat="43.9503928" lon="4.8026066">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="platform"/>
+    <tag k="name" v="Porte de l'Oulle"/>
+    <tag k="public_transport" v="platform"/>
+  </node>
+  <node id="7573489232" lat="43.9503640" lon="4.8049428">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Racine"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7573489233" lat="43.9503943" lon="4.8049971">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="platform"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Racine"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="7573489234" lat="43.9490150" lon="4.8054802">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Hôtel de Ville"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7573489235" lat="43.9490290" lon="4.8054547">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="platform"/>
+    <tag k="name" v="Hôtel de Ville"/>
+    <tag k="public_transport" v="platform"/>
+  </node>
+  <node id="8100303866" lat="43.9525361" lon="4.7960456">
+    <tag k="highway" v="street_lamp"/>
+  </node>
+  <node id="8100303867" lat="43.9524721" lon="4.7962431">
+    <tag k="highway" v="street_lamp"/>
+  </node>
+  <node id="8100303868" lat="43.9524097" lon="4.7964503">
+    <tag k="highway" v="street_lamp"/>
+  </node>
+  <node id="8100303869" lat="43.9523518" lon="4.7967088">
+    <tag k="highway" v="street_lamp"/>
+  </node>
+  <node id="8100303870" lat="43.9521807" lon="4.7972867">
+    <tag k="highway" v="street_lamp"/>
+  </node>
+  <node id="8100303871" lat="43.9520973" lon="4.7975732">
+    <tag k="highway" v="street_lamp"/>
+  </node>
+  <node id="8100303872" lat="43.9519990" lon="4.7979463">
+    <tag k="highway" v="street_lamp"/>
+  </node>
+  <node id="8330303014" lat="43.9483758" lon="4.8101987">
+    <tag k="bus" v="yes"/>
+    <tag k="fixme" v="Position approximative"/>
+    <tag k="highway" v="platform"/>
+    <tag k="name" v="Place Pie"/>
+    <tag k="public_transport" v="platform"/>
+  </node>
+  <node id="8330303015" lat="43.9483637" lon="4.8101751">
+    <tag k="bus" v="yes"/>
+    <tag k="fixme" v="Position approximative"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Place Pie"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="8736063407" lat="43.9505041" lon="4.8041094">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="8736066263" lat="43.9506156" lon="4.8038556">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="8736072671" lat="43.9504228" lon="4.8046161">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="9327662117" lat="43.9491394" lon="4.8049742">
+    <tag k="direction" v="110"/>
+    <tag k="highway" v="street_lamp"/>
+    <tag k="ref" v="1-1"/>
+    <tag k="survey:date" v="2021-12-10"/>
+  </node>
+  <node id="9335454378" lat="43.9507546" lon="4.8014494">
+    <tag k="highway" v="street_lamp"/>
+  </node>
+  <node id="9335454379" lat="43.9509070" lon="4.8013128">
+    <tag k="highway" v="street_lamp"/>
+  </node>
+  <node id="9335454380" lat="43.9508338" lon="4.8010329">
+    <tag k="highway" v="street_lamp"/>
+  </node>
+  <node id="9335454381" lat="43.9505115" lon="4.8008296">
+    <tag k="highway" v="street_lamp"/>
+  </node>
+
+</osm>
